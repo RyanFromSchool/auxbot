@@ -1,0 +1,2 @@
+# auxbot
+Discord music bot

@@ -1,0 +1,19 @@
+{
+  "name": "auxbot",
+  "version": "1.0.0",
+  "description": "Discord music bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanFromSchool/auxbot.git"
+  },
+  "author": "Ryan Cabell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanFromSchool/auxbot/issues"
+  },
+  "homepage": "https://github.com/RyanFromSchool/auxbot#readme"
+}

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RyanFromSchool/auxbot/issues"
   },
-  "homepage": "https://github.com/RyanFromSchool/auxbot#readme"
+  "homepage": "https://github.com/RyanFromSchool/auxbot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
 }
